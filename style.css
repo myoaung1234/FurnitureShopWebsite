@@ -88,6 +88,10 @@
     margin-left: 10px;
 }
 
+.navbar .right img:last-child{
+    width: 30px;
+}
+
 .tns-controls button{
     padding: 8px 35px;
     background: #5337c5;
